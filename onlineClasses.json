@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "data": [
+        
+        {
+        	"id" : "https://meet.google.com/sos-vxeb-jug",
+            "title": "AI"
+        },
+        {
+        	"id" : "https://meet.google.com/nhd-ynqs-zjy",
+            "title": "CG"
+        },
+        {
+        	"id" : "https://meet.google.com/pgs-hqod-mks",
+            "title": "RM"
+        }
+        
+    ]
+}
