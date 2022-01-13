@@ -3,28 +3,12 @@
     "data": [
         
         {
-        	"id" : "https://meet.google.com/ors-fwhd-gpi",
-            "title": "SE"
-        },
-        {
-        	"id" : "https://meet.google.com/sos-vxeb-jug",
-            "title": "AI"
+        	"id" : "",
+            "title": "IWT"
         },
         {
         	"id" : "",
-            "title": "PDS"
-        },
-        {
-        	"id" : "https://meet.google.com/nhd-ynqs-zjy",
-            "title": "CG"
-        },
-        {
-        	"id" : "https://meet.google.com/pgs-hqod-mks",
-            "title": "RM"
-        },
-        {
-        	"id" : "",
-            "title": "Honors"
+            "title": "SPM"
         }
         
     ]
