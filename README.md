@@ -6,3 +6,5 @@ This repository consists of following JSON files which are fetched by the androi
 - Course Materials
 - Assignments
 - Online Classes
+
+© CSE11 . All Rights Reserved. Designed and Developed by das_ayush.
